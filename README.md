@@ -19,7 +19,7 @@ Coming from `ionic-platform-web-client`? Things have changed! See our [migration
 $ npm install --save @ionic/cloud
 $ ionic io init
 ```
-
+ 
 Manually copy the distribution file into your project.
 
 ```bash
